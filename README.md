@@ -1,7 +1,8 @@
 # Robot Minion - a robot for your plant 
 Arduino based Robot for plant moisture sensing.
 
-Full description of project available on [instructables](http://www.instructables.com/member/evalds/).
+Full description of project available on [instructables](http://www.instructables.com/id/Robot-Minion-Plant-Watering-Robot/).
+Working robot here on [youtube](https://www.youtube.com/watch?v=4_Oq1PAKOGk). 
 See other projects on [yellowrobot.xyz](http://www.yellowrobot.xyz).
 
 Robot components:
