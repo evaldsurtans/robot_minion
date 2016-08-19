@@ -7,7 +7,7 @@ See other projects on [yellowrobot.xyz](http://www.yellowrobot.xyz).
 Robot components:
 
 * WTV020-SD
-..* 4 (+), 5 (-) -> Speaker
+⋅⋅* 4 (+), 5 (-) -> Speaker
 ..* 16 -> VCC
 ..* 8 -> GND
 ..* 10 -> A2 Ardunio (digital com cable)
